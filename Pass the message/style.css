@@ -1,0 +1,41 @@
+#display{
+    height: 200px;
+    width: 400px;
+    background-color: antiquewhite;
+    border: 5px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+    margin: 40px 400px;
+    text-align: center;
+}
+
+#message{
+    height: 100px;
+    width: 400px;
+    background-color: antiquewhite;
+    border: 2px solid black;
+    font-family: monospace;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+
+#btn{
+    height: 60px;
+    width: 150px;
+    background-color: black;
+    border: 2px solid antiquewhite;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: antiquewhite;
+    padding: 10px;
+    margin-left: 520px;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 2px antiquewhite;
+
+}
